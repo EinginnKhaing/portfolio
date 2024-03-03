@@ -79,7 +79,6 @@ textarea {
 
 .send-btn {
     text-align: end;
-    // width: 85%;
     margin-right: 10px;
 
 }
