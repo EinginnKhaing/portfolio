@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "node-sass": "^9.0.0",
+    "sass": "^1.69.7",
+    "sass-loader": "^13.3.3",
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "vuex": "^4.0.2"
+  }
+}
