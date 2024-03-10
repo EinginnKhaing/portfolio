@@ -48,7 +48,7 @@ export default {
     height: 100vh;
     max-height: 100vh;
     align-items: center;
-    overflow: hidden;
+    overflow: hidden !important;
     width: 100vw;
     background: #1d1d20;
 

@@ -24,19 +24,37 @@
 
         <div class="time">2021 April - 2022 August</div>
 
-        <div class="container-second">
+        <div class="container">
             <div class="company"> <span class="title">TASTYSOFT Software Co.,LTD</span> ( Junior
                 Full-Stack Developer )</div>
             <ul>
-                <li>Worked on various projects, including QR Coupon Pricing, Payroll, CRM system, and Connect 365 which is a
-                    multipurpose mobile application for time tracking, collaboration, productivity and e-learning platform
+                <li>Worked on various projects, including QR Coupon Pricing, Payroll, CRM system, and Connect 365 which
+                    is a
+                    multipurpose mobile application for time tracking, collaboration, productivity and e-learning
+                    platform
                     for
                     employees, responsible for both frontend and backend development.</li>
 
-                <li>Developed Serverless REST API With Python And AWS Lambda and implemented various frontend technologies,
+                <li>Developed Serverless REST API With Python And AWS Lambda and implemented various frontend
+                    technologies,
                     including Angular and Flutter.</li>
                 <li>Developed multiple mobile applications for both Android and IOS using Flutter.</li>
                 <li>Collaborated with clients to understand their requirements and provide technical guidance.</li>
+            </ul>
+        </div>
+
+        <div class="time">2019 January - 2021 January</div>
+
+        <div class="container-second">
+            <div class="company"> <span class="title">Mogok Foundation</span>Professional Computer Programming</div>
+            <ul>
+
+
+                <li> Basic programming with Java.</li>
+
+                <li>Fundamental web development with HTML, CSS, JavaScript,
+                    Bootstrap, jQuery and Angular.</li>
+                <li>Mobile app development with Ionic 3 and Flutter</li>
             </ul>
         </div>
     </div>

@@ -144,7 +144,7 @@ form {
         height: 30px;
         width: 120px;
         font-size: 13px;
-
+margin-bottom: 100px ;
     }
 }
 

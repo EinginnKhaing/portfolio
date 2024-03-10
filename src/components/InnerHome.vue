@@ -1,4 +1,3 @@
-
 <script setup>
 import github from './icons/github.vue';
 import linkedin from './icons/linkedin.vue';
@@ -12,7 +11,7 @@ import Contact from './contact.vue';
 <template>
     <div class="inner-container">
         <header>
-            <h1 style="color:gray; cursor: pointer;" @click="submitForm('Home')" >
+            <h1 style="color:gray; cursor: pointer;" @click="submitForm('Home')">
                 E
             </h1>
             <div class="icons">
@@ -30,10 +29,14 @@ import Contact from './contact.vue';
                     <div class="main-text">
                         <!-- <div class="spacer" :style="{ backgroundImage: backgroundGradColor }"></div> -->
                         <div class="container">
-                            <p class="text">I am a passionate web developer with a strong focus on delivering high quality
-                                websites that are visually appealing and user friendly. I enjoy taking on new challenges and
+                            <p class="text">I am a passionate web developer with a strong focus on delivering high
+                                quality
+                                websites that are visually appealing and user friendly. I enjoy taking on new challenges
+                                and
                                 staying up to date with the latest technologies and trends in the industry.</p>
-                        </div>
+                               
+                            </div>
+                       
                     </div>
                     <div class="checkResponsive">
                         <AboutMe />
@@ -113,6 +116,7 @@ export default {
     padding: 20px;
     color: white;
     max-height: 100vh;
+  
 
     header {
         justify-content: space-between;
@@ -173,6 +177,7 @@ export default {
                         line-height: 1.6;
                         color: whitesmoke;
                     }
+                   
                 }
 
                 .spacer {
@@ -308,4 +313,5 @@ export default {
     }
 
 
-}</style>
+}
+</style>
